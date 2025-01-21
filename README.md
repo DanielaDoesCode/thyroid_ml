@@ -121,4 +121,4 @@ O3.
 
     What are the most significant features in the best models obtained above (in O1 and O2)?
 
-The results can be found in the [notebook_EC.ipynb](Jupiter Notebook) in the root of this project.
+The results can be found in the [Jupyter Notebook](notebook_EC.ipynb) in the root of this project.
